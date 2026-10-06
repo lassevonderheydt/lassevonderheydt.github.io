@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "random/index.html",
+    "href": "random/index.html",
+    "title": "Random",
+    "section": "",
+    "text": "A Safari extension that enforces a budget for short-form videos. I much prefer it over screen time limits and was encouraged to publish it after good feedback from friends."
+  },
+  {
+    "objectID": "random/index.html#apps-tools",
+    "href": "random/index.html#apps-tools",
+    "title": "Random",
+    "section": "",
+    "text": "A Safari extension that enforces a budget for short-form videos. I much prefer it over screen time limits and was encouraged to publish it after good feedback from friends."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "with Paul Bürkner & Martin Modrák\n\n\n\n\n\n\n\n\n\nwith Wes Austin, Rajat Kochar & Ludovica Gazze\n\n\n\nwith Anh-Huy Nguyen & Rafael Pintro-Schmitt"
+  },
+  {
+    "objectID": "projects/index.html#current",
+    "href": "projects/index.html#current",
+    "title": "Projects",
+    "section": "",
+    "text": "with Paul Bürkner & Martin Modrák\n\n\n\n\n\n\n\n\n\nwith Wes Austin, Rajat Kochar & Ludovica Gazze\n\n\n\nwith Anh-Huy Nguyen & Rafael Pintro-Schmitt"
+  },
+  {
+    "objectID": "projects/index.html#pre-phd-research-activities",
+    "href": "projects/index.html#pre-phd-research-activities",
+    "title": "Projects",
+    "section": "Pre-PhD research activities",
+    "text": "Pre-PhD research activities\n\nBayesian approaches to double machine learning of treatment effects\nResearch assistance for Frank DiTraglia & Laura Liu\n\n\nHierarchical Spatial Bayesian Regression for Mapping Disparities in Childhood Lead Exposure in England\nwith Frank DiTraglia & Ludovica Gazze\nDiscontinued in favor of ECLIPS\n\n\nThe Shapley value in Machine Learning and the SHAP value in Economics\nMPhil thesis, Oxford\n\n\nRural-urban migration in Developing Countries: The role of individual heterogeneity for ex-ante choices and ex-post outcomes in labor market\nBSc thesis, Bocconi"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Lasse.",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Email\n  \n\n\n\n\nHi, I’m Lasse.\nI’m a PhD student in Econometrics at the University of Munich, where I am a member of the Munich Graduate School of Economics and the Munich Center for Machine Learning. Before coming to Munich, I was an Exposé scholar of the Studienstiftung des Deutschen Volkes working as a research assistant at the University of Oxford on Bayesian causal inference. I hold an MPhil in Economics from Oxford and am a Bocconi alumn. Between my studies I worked as an intern at QuantCo.\nMy main interests lie in the fields of econometrics with applications in microeconomics, in particular methods for structural estimation, machine learning for causal inference and latent variable models, and bayesian modeling and inference. I also do applied research on topics in environmental and health economics, currently with a focus on lead pollution.\nIf you want to reach out, drop me a message."
+  }
+]
