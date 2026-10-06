@@ -1,0 +1,62 @@
+---
+title: "Projects"
+format:
+  html:
+    css: ../styles.css
+---
+
+## Current
+
+::: {.project-card}
+### Bayesian estimation of skill formation models
+:::
+
+::: {.project-card}
+### Anytime-valid testing for posterior calibration
+*with Paul Bürkner & Martin Modrák*
+:::
+
+::: {.project-card}
+### Semiparametric Bayesian inference for demand estimation
+:::
+
+
+::: {.project-card}
+### Adversarial distributions for statistical simulation studies
+:::
+
+::: {.project-card}
+### Effects of lead in US drinking water on socioeconomic outcomes
+*with Wes Austin, Rajat Kochar & Ludovica Gazze*
+:::
+
+::: {.project-card}
+### Fair scoring for talent selection in university admissions
+*with Anh-Huy Nguyen & Rafael Pintro-Schmitt*
+:::
+
+---
+
+## Pre-PhD research activities
+
+::: {.project-card}
+### Bayesian approaches to double machine learning of treatment effects
+*Research assistance for Frank DiTraglia & Laura Liu*
+:::
+
+::: {.project-card}
+### Hierarchical Spatial Bayesian Regression for Mapping Disparities in Childhood Lead Exposure in England
+*with Frank DiTraglia & Ludovica Gazze*
+
+Discontinued in favor of [ECLIPS](https://leadsafefutures.org){.project-link}
+:::
+
+::: {.project-card}
+### The Shapley value in Machine Learning and the SHAP value in Economics
+*MPhil thesis, Oxford*
+:::
+
+::: {.project-card}
+### Rural-urban migration in Developing Countries: The role of individual heterogeneity for ex-ante choices and ex-post outcomes in labor market
+*BSc thesis, Bocconi*
+:::

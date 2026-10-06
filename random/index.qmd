@@ -1,0 +1,14 @@
+---
+title: "Random"
+format:
+  html:
+    css: ../styles.css
+---
+
+## Apps & Tools
+
+### ScrollBudget
+A Safari extension that enforces a budget for short-form videos. I much prefer it over screen time limits and was encouraged to publish it after good feedback from friends.
+<br>
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/scrollbudget/id6755718753)
+

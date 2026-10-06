@@ -1,0 +1,28 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/pox.JPG"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lasse-von-der-heydt/
+    - icon: github
+      text: Github
+      href: https://github.com/lasse-meixner
+    - icon: envelope
+      text: Email
+      href: "mailto:l.vonderheydt@icloud.com"  
+---
+
+::: {#about-block}
+:::
+
+# Hi, I'm Lasse.
+
+I'm a PhD student in Econometrics at the University of Munich, where I am a member of the Munich Graduate School of Economics and the Munich Center for Machine Learning. Before coming to Munich, I was an Exposé scholar of the Studienstiftung des Deutschen Volkes working as a research assistant at the University of Oxford on Bayesian causal inference. I hold an MPhil in Economics from Oxford and am a Bocconi alumn. Between my studies I worked as an intern at QuantCo.
+
+My main interests lie in the fields of econometrics with applications in microeconomics, in particular methods for structural estimation, machine learning for causal inference and latent variable models, and bayesian modeling and inference. I also do applied research on topics in environmental and health economics, currently with a focus on lead pollution.
+
+If you want to reach out, drop me a [message](mailto:l.vonderheydt@icloud.com).
+
